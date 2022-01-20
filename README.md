@@ -1,4 +1,4 @@
-# RSA-Breaking-Shor-s-Algorithm
+# RSA-Breaking-Shor's-Algorithm
 This is a practical implementation of Shor's Algorithm to break our RSA encryption layer.
 RSA stands for Rivest, Shamir, and Adleman, the brains behind this encryption technology. This technique uses algorithms to secure data encryptions, and is one of the oldest to do so. RSA has the ability to use modern computers to encrypt and decrypt messages. The RSA encryption is an asymmetric cryptographic algorithm. The RSA is like the google of security systems. It is used for specific security systems and protects sensitive data, especially when being sent through the internet. Quantum hacking and cryptography pose a sizable threat to the RSA security since QC enables encryptions to hack through the RSA algorithm. To conclude, quantum encryption software has the potential to hack through the RSA security.
 
